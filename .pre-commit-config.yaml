@@ -1,0 +1,14 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.5.0
+    hooks:
+      - id: check-case-conflict
+        name: pre-commit-hooks - Check for case conflicts
+      - id: trailing-whitespace
+        name: pre-commit-hooks - Trim Trailing Whitespace
+      - id: end-of-file-fixer
+        name: pre-commit-hooks - Fix End of Files
+      - id: check-executables-have-shebangs
+        name: pre-commit-hooks - Checks that non-binary executables have a proper shebang
+      - id: requirements-txt-fixer
+        name: pre-commit-hooks - Fix requirements.txt

@@ -1,5 +1,6 @@
 # FeathersV1 Classification
 
+[![arXiv](https://img.shields.io/badge/arXiv-2004.08606-b31b1b.svg)](https://arxiv.org/abs/2004.08606)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains a Jupyter notebooks and scripts for solving sparse classification task based on [FeathersV1 Dataset](https://github.com/feathers-dataset/feathersv1-dataset).
